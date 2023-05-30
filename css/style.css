@@ -1,0 +1,38 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+.container{
+	width:90%;
+	margin:auto;
+	background-color:lightgray;
+}
+.icon1{
+	border:1px dotted blue;
+	width:80px;
+	height:80px;
+	border-radius:100%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	margin:auto;
+}
+.icon1 i{
+	width:60px;
+	height:60px;
+}
+.icon3 i{
+	width:100px;
+	height:100px;
+}
+.icon3{
+	border:1px dotted blue;
+	width:130px;
+	height:130px;
+	border-radius:100%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	margin:auto;
+}
